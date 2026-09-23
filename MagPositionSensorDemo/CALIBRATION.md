@@ -1,7 +1,7 @@
 # Magnetic Gear Calibration
 
-The default calibration table is deliberately disabled. Uncalibrated firmware
-enters calibration mode automatically and does not issue P/R/N/D button edges.
+The default calibration table is deliberately disabled. <br>
+Uncalibrated firmware enters calibration mode automatically and does not issue P/R/N/D button edges.
 It still sends the keypad heartbeat with active-button code `00`.
 
 ## First assembled-board workflow
